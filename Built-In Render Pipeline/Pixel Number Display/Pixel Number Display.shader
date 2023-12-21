@@ -51,7 +51,6 @@
             float _Value;
             fixed _SameCellSize;
             fixed _DigitPadding;
-            fixed _DrawCurrencyMarker;
 
             /*
             ** Digits are 5 x 7 (5 wide, 7 tall) and can be encoded with binary
